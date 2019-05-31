@@ -7,7 +7,7 @@ Ag-Net is a bundle of customized deep neural networks for recognizing crops base
 
 ## Dataset
 
-We have created a free sampling dataset for direct training and testing of neural network. [Ag-Net-Dataset](https://github.com/ZihengSun/Ag-Net-Dataset)
+We have created a free sample dataset for direct training and testing of neural network. [Ag-Net-Dataset](https://github.com/ZihengSun/Ag-Net-Dataset)
 
 ## Ag-Net Models
 
