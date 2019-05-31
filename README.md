@@ -9,5 +9,5 @@ We have several talented students voluntarily working on this project as their s
 
 Ayush Patel, Jaypee University of Information Technology : [Agriculture Net.ipynb](https://github.com/1998at/AgricultureNet/blob/master/Agriculture%20Net.ipynb)
 
-If you would like to join in contributing to this project or list existing jupyterbooks or github repos in this page, please contact Dr. Ziheng Sun (zsun@gmu.edu) or Dr. Annie Burgess (annieburgess@esipfed.org). 
+If you would like to contribute to this project or list existing jupyterbooks or github repos in this page, please feel free to contact Dr. Ziheng Sun (zsun@gmu.edu) or Dr. Annie Burgess (annieburgess@esipfed.org). 
 
